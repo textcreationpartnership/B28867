@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the rare exployts of the London souldiers, and gentlemen prentizes lately gone out of the citie for the designes of the King and Parliament</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28867</idno><idno type="EEBO-CITATION">12288807</idno>
+  <idno type="VID">197548</idno>
+  <idno type="EEBO-PROQUEST">2240972941</idno>
+  
+            <idno type="STC">Wing R862</idno>
+            <idno type="OCLC">12288807</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197548)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E114, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the rare exployts of the London souldiers, and gentlemen prentizes lately gone out of the citie for the designes of the King and Parliament</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Smith,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Civil defense --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197548:1"/>
+            <pb facs="tcp:197548:1"/>
+            <p>A RELATION OF THE RARE exployts of the London Soul<g ref="char:EOLhyphen"/>diers, and Gentlemen Prentizes, lately gone out of the Citie for the Designes of the KING <hi>AND</hi> PARLIAMENT.</p>
+            <p>
+               <hi>Hen. Elsyng Cler. Parl. D. Com.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of tent with table</figDesc>
+            </figure>
+            <p>Printed for <hi>William Smith.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:197548:2"/>
+            <pb facs="tcp:197548:2"/>
+            <head>A RELATION OF The rare exploits of the <hi>London</hi> Souldiers, and Gentlemen Prentizes lately gone out of the City for the designes of the King, and Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He miseries and Calamities which of late have happened in this con<g ref="char:EOLhyphen"/>fused place of England are so ma<g ref="char:EOLhyphen"/>ny, that they furnish the discourse both of this and of other nations, who notwithstanding are not able to expresse them all; I shall now relate you onely two, be<g ref="char:EOLhyphen"/>falling within these few dayes, and to this end that by the true report of these which by men of sundry passions may be prevented) others of the like natare, if it please God may be prevented, of the one I have certaine information, of the o<g ref="char:EOLhyphen"/>ther I my selfe was an eye witnesse. The first
+<pb n="4" facs="tcp:197548:3"/>happened at <hi>Acton,</hi> some six miles distant from <hi>London,</hi> where lived a Gentleman; reported and beleeved to be different in Religion (as too many now a dayes are which we know to be the cause of all our evills) from the Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> but in the voice of most of his neighbours a sober moderate and charitable minded man. This Gentleman having in his house no more but one ancient Gentlewoman his kinswoman, whom he intrusted as his house keeper, with one serving man and maide. Had his house besett with divers Companies of Souldiers, who had listed themselves for the service of the King and Parliament and were in pay, and command, un<g ref="char:EOLhyphen"/>der Officers, where after they had forced him to open the gates by threatning words they en<g ref="char:EOLhyphen"/>tred the house, and so strangly despoyled him, that they left him not a bed, bedsted, table, doore, or glassewindow, chest, trunke, or the smallest utensill, but sold all for very small pri<g ref="char:EOLhyphen"/>zes before his servants faces, some of them ha<g ref="char:EOLhyphen"/>ving forced him before on foote to <hi>London,</hi> and for his bills, bonds, letters, and other writings, the most part they tore in peeces, and strewed them about the house, others some they sent up to <hi>London,</hi> he hath with much industry, and long time rarley furnished a plot of Ground with the choicest flowers and outlandish trees which he could procure, which they plucked up by the roots as many as they could, and the rest left so
+<pb n="5" facs="tcp:197548:3"/>desolate that whereas it was thought the finest and most curious gardens in all those part, there is now left nothing but the ruines of art and nature.</p>
+            <p>The other outrage which with griefe I saw was committed in Radcliffe highway, upon Tuseday last being the 23 of this instant <hi>August,</hi> where lived an aged Gentleman in good fashi<g ref="char:EOLhyphen"/>on, love and credit amongst his neighbours for many yeares space. I was enformed and might likewise guesse by his aspect that hee was above fourescore, and his wife not much distant from his time. This poore man was like manner as<g ref="char:EOLhyphen"/>saulted by another company of Souldiers, who are billated thereabouts, untill the Drum com<g ref="char:EOLhyphen"/>mands them to doe service: where having ap<g ref="char:EOLhyphen"/>proached his doore, they drew out a paper which they read, whether a pretence of Autho<g ref="char:EOLhyphen"/>rity or what else I cannot easily conjecture. And thereupon they rusht into the House, rifled him of all that was in the House, breaking and bat<g ref="char:EOLhyphen"/>tering many of the goods, and having brought them out, sold them to such persons as would buy them at any rates, and this at nooneday and in the sight of 1000 people; one Featherbed I saw sold for foure shillings, and one Flockbed for one shilling, &amp; many other things at I know not what prises, leaving him nothing but naked wales and one stoole which the old man sate up<g ref="char:EOLhyphen"/>on, he being lame and decrepit with old age.
+<pb n="6" facs="tcp:197548:4"/>she Headborough of that place endeavored to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>escue some of the goods, which were af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>terwards violently taken againe out of his house After the riot was thus ended, they marched a<g ref="char:EOLhyphen"/>way with a drum; and then I made bold to goe into this distressed mans house, where I found him sitting upon his only stoole, and with the teares falling downe his hoary beard; from whence having administred the best comfort that I could I departed.</p>
+            <p>I will now leave the Reader to Iudge of these strange inhumanities they being in this respect the more monstrous in that they are practised amongst Christians against Christians, and a<g ref="char:EOLhyphen"/>mongst men that pretend and indeede should maintaine and defend Religion, the Lawes of the Land, and Priviledges of the Subiect; to the scandall of the true sincere Protastant Religion, destruction of the Lawes of the Kingdome, and the utter violation of all Priviledge.</p>
+            <p>If it be heer obiected unto me that they were Papists, I demand if there be not many wholsom Lawes, made against them, and desired both by the Kings Majesty by the Parliament to be put in execution, nay, were they Iewes or Aethists, it is a staine to the Government of the Kingdom amongst many other distempers, and may teach Forraigne Princes to use the same rigour towards Protestants beyond the Seas; whose Religion in puritie, truth, and decency let us
+<pb n="7" facs="tcp:197548:4"/>pray God for ever to maintain and defend. The Lords and Commons in Parliament declares, that all such persons as shall, upon any pretence whatsoever, assist his Majestie in this Warre, with Horse, Armes, Plate or money, are Tray<g ref="char:EOLhyphen"/>tors to His Maiestie, the Parliament, and King<g ref="char:EOLhyphen"/>dome, and shall be brought to condigne pun<g ref="char:EOLhyphen"/>nishment for so high an offence.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered to be forthwith Printed and published.</p>
+                        <closer>
+                           <signed>H. Elsyng Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
